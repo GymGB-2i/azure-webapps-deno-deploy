@@ -1,7 +1,3 @@
-# About This Fork
-
-This Fork of the original repository increased the version of deno to 1.7.0.
-
 # Azure Web Apps Deno Deploy action
 
 This action deploys a Deno app to Azure Web Apps (Linux).
